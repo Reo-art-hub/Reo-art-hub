@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ejikeme Roy Okoye 
 
-<!--
-**Reo-art-hub/Reo-art-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  About Me
+-  Frontend & Cross-Platform Mobile Engineer specializing in **JavaScript**, **Flutter**, **Dart**, and **Node.js**.
+-  Built and deployed production apps, including **Quick Ticket Maker** on the Google Play Store.
+-  Currently building high-performance Jamstack applications, REST APIs, and leveraging **Agentic AI workflows**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech Stack & Tools
+- **Languages:** JavaScript (ES6+), Dart, HTML5, CSS3, SQL
+- **Frameworks & Mobile:** Flutter, Node.js, Express.js, React
+- **Backend & Cloud:** Firebase (Firestore, Auth), AWS Cloud, REST APIs
+- **Tools & Workflow:** Git, GitHub, Cursor IDE, Figma, Postman
+
+---
+
+###  Connect & Portfolio
+-  **Live Portfolio:** [reo-art-hub.github.io/ejike_developer_portfolio](https://reo-art-hub.github.io/ejike_developer_portfolio/)
+-  **LinkedIn:** [Ejikeme Roy Okoye](https://www.linkedin.com/in/ejikeme-roy-okoye)
