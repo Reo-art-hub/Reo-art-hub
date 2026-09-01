@@ -34,10 +34,10 @@ Welcome to my central GitHub portfolio hub! I build high-performance web experie
 <table>
   <tr>
     <td width="100%">
-      <h3> Featured Brand Architecture & Design System</h3>
+      <h3>Featured Brand Architecture & Design System</h3>
       <p><b>AGATHAKAKALOGICAL LIMITED</b> (CAC RC 9778993)</p>
       <p>Enterprise brand architecture, vector logo suite, WCAG 2.2 AA design tokens, and build pipeline engineered for an infrastructural cybersecurity firm.</p>
-      <p><a href="https://github.com/ejike-art/agatha-brand-assets">🔗 View full repository and production assets on @ejike-art →</a></p>
+      <p>🔗 <a href="https://github.com/ejike-art/agatha-brand-assets">View full repository and production assets on @ejike-art →</a></p>
     </td>
   </tr>
 </table>
