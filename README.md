@@ -1,4 +1,4 @@
-# Hi there, I'm Ejikeme Roy Okoye 👋
+# Hi there, I'm Ejikeme Roy Okoye 
 
 Welcome to my central GitHub portfolio hub! I build high-performance web experiences and mobile applications across two focused profiles.
 
@@ -6,9 +6,10 @@ Welcome to my central GitHub portfolio hub! I build high-performance web experie
 
 ###  Tech Stack & Tools
 
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
-
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+* **Languages:** `JavaScript (ES6+)` • `Dart` • `HTML5` • `CSS3` • `SQL`
+* **Frameworks & Mobile:** `Flutter` • `Node.js` • `Express.js` • `React`
+* **Backend & Cloud:** `Firebase (Firestore, Auth)` • `AWS Cloud` • `REST APIs`
+* **Tools & Workflow:** `Git` • `GitHub` • `Cursor IDE` • `Figma` • `Postman`
 
 ---
 
