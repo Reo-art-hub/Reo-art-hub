@@ -4,7 +4,7 @@ Welcome to my central GitHub portfolio hub! I build high-performance web experie
 
 ---
 
-### 🎨 Tech Stack & Tools
+###  Tech Stack & Tools
 
 <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
@@ -12,17 +12,17 @@ Welcome to my central GitHub portfolio hub! I build high-performance web experie
 
 ---
 
-### 📊 GitHub Ecosystem & Accounts
+###  GitHub Ecosystem & Accounts
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Core Engineering Profile</h4>
+      <h4> Core Engineering Profile</h4>
       <p>You are currently here on <strong>Reo-art-hub</strong>. Focused on Frontend Jamstack apps, REST APIs, and leveraging Agentic AI workflows.</p>
       <p>🔗 <a href="https://github.com">Visit Reo-art-hub</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>✨ UI/UX & Mobile Profile</h4>
+      <h4> UI/UX & Mobile Profile</h4>
       <p>Explore my cross-platform mobile work on <strong>ejike-art</strong>. Home of design systems and production apps like <strong>Quick Ticket Maker</strong>.</p>
       <p>🔗 <a href="https://github.com">Explore ejike-art Profile</a></p>
     </td>
@@ -32,5 +32,5 @@ Welcome to my central GitHub portfolio hub! I build high-performance web experie
 ---
 
 ### 🔗 Connect With Me
-* 🌐 **Live Portfolio:** [reo-art-hub.github.io/ejike_developer_portfolio](https://github.io)
-* 💼 **LinkedIn:** [Ejikeme Roy Okoye](https://linkedin.com)
+*  **Live Portfolio:** [reo-art-hub.github.io/ejike_developer_portfolio](https://github.io)
+*  **LinkedIn:** [Ejikeme Roy Okoye](https://linkedin.com)
