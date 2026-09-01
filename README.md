@@ -6,25 +6,25 @@ Welcome to my central GitHub portfolio hub! I build high-performance web experie
 
 ###  Tech Stack & Tools
 
-![JavaScript](https://shields.io) ![Flutter](https://shields.io) ![Dart](https://shields.io) ![NodeJS](https://shields.io) ![Express.js](https://shields.io) ![React](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
-![Firebase](https://shields.io) ![AWS](https://shields.io) ![Git](https://shields.io) ![Figma](https://shields.io) ![Postman](https://shields.io)
+<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
 
 ---
 
-###  GitHub Ecosystem & Accounts
+### GitHub Ecosystem & Accounts
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4> Core Engineering Profile</h4>
       <p>You are currently here on <strong>Reo-art-hub</strong>. Focused on Frontend Jamstack apps, REST APIs, and leveraging Agentic AI workflows.</p>
-      <p> <a href="https://github.com">Visit Reo-art-hub</a></p>
+      <p>🔗 <a href="https://github.com">Visit Reo-art-hub</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>✨ UI/UX & Mobile Profile</h4>
+      <h4> UI/UX & Mobile Profile</h4>
       <p>Explore my cross-platform mobile work on <strong>ejike-art</strong>. Home of design systems and production apps like <strong>Quick Ticket Maker</strong>.</p>
-      <p> <a href="https://github.com">Explore ejike-art Profile</a></p>
+      <p>🔗 <a href="https://github.com">Explore ejike-art Profile</a></p>
     </td>
   </tr>
 </table>
@@ -40,6 +40,6 @@ Welcome to my central GitHub portfolio hub! I build high-performance web experie
 
 ---
 
-###  Connect With Me
+### 🔗 Connect With Me
 *  **Live Portfolio:** [reo-art-hub.github.io/ejike_developer_portfolio](https://github.io)
 *  **LinkedIn:** [Ejikeme Roy Okoye](https://linkedin.com)
