@@ -29,7 +29,13 @@ Welcome to my central GitHub portfolio hub! I build high-performance web experie
     </td>
   </tr>
 </table>
+###  Featured Brand Architecture & Design System
 
+[![Agatha Brand Assets](https://github-readme-stats.vercel.app/api/pin/?username=ejike-art&repo=agatha-brand-assets&theme=dark)](https://github.com/ejike-art/agatha-brand-assets)
+
+> **AGATHAKAKALOGICAL LIMITED** (CAC RC 9778993)  
+> Enterprise brand architecture, vector logo suite, WCAG 2.2 AA design tokens, and build pipeline engineered for an infrastructural cybersecurity firm.  
+>  [View full repository and production assets on @ejike-art](https://github.com/ejike-art/agatha-brand-assets)
 ---
 
 ### 🔗 Connect With Me
