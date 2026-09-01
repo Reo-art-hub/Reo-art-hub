@@ -18,3 +18,4 @@
 ###  Connect & Portfolio
 -  **Live Portfolio:** [reo-art-hub.github.io/ejike_developer_portfolio](https://reo-art-hub.github.io/ejike_developer_portfolio/)
 -  **LinkedIn:** [Ejikeme Roy Okoye](https://www.linkedin.com/in/ejikeme-roy-okoye)
+-  **UI/UX & Flutter Profile:** Check out my design systems and mobile application repositories on [ejike-art](https://github.com).
